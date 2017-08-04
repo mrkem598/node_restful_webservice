@@ -13,10 +13,12 @@ Node v6.9.1
 Setup
 =====
 
-***Database***
 
-1. Install mongoDB and have the service running.
-2. Run "npm start" to seed the database.
+Database
+=====
+
+ Install mongoDB and have the service running.
+ Run "npm start" to seed the database.
 
 Testing
 =======
@@ -30,6 +32,6 @@ npm start
 
 ### The node server is set to run on
 
-**http://localhost:3000**
+Port: 3000
 
 
