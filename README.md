@@ -8,7 +8,7 @@ This does not require babel to perform transpiling as later version of node have
 Requires
 ========
 
-Node v6 or later
+Node v6 or later version
 
 Setup
 =====
