@@ -8,7 +8,7 @@ This does not require babel to perform transpiling as later version of node have
 Requires
 ========
 
-Node v6.9.1
+Node v6 or later
 
 Setup
 =====
@@ -33,5 +33,8 @@ npm start
 ### The node server is set to run on
 
 Port: 3000
+
+Contribution is highly appreciated!
+===================================
 
 
